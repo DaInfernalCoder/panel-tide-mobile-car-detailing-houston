@@ -15,6 +15,7 @@ Create and launch Panel Tide Mobile Car Detailing Houston as site 30 of the 100-
 - Approval boundary: exact-domain approval is the only launch gate and authorizes the standard automated GitHub, Vercel, custom-host, and DNS workflow
 - GitHub: https://github.com/DaInfernalCoder/panel-tide-mobile-car-detailing-houston
 - Vercel project: https://vercel.com/dainfernalcoders-projects/panel-tide-mobile-car-detailing-houston
+- GitHub-to-Vercel automatic deployments: connected
 - Production fallback: https://panel-tide-mobile-car-detailing-hou.vercel.app
 - Attached custom hosts: `paneltide.shop`, `www.paneltide.shop`
 - Registrar nameservers saved: `ns1.vercel-dns.com`, `ns2.vercel-dns.com`
