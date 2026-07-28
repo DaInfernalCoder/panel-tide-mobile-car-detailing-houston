@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paneltide.shop/sitemap.xml
+
