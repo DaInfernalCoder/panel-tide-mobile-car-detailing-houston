@@ -1,0 +1,26 @@
+# Panel Tide Mobile Car Detailing Houston
+
+> Appointment-based mobile car detailing in Conroe, Texas.
+
+## Primary pages
+- [Homepage](https://paneltide.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://paneltide.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://paneltide.shop/#local-detailing): How mobile detailing works in Conroe.
+
+## Verified business facts
+- Business name: Panel Tide Mobile Car Detailing Houston
+- Primary service area: Conroe, Texas
+- Telephone: +1 346-586-2258
+- Service: Appointment-based mobile car detailing
+- Booking: https://cal.com/sumitdatta/auto-detail-service
+
+<!-- SEO-NEXT:START -->
+## Expanded pages
+- [Services](https://paneltide.shop/services/)
+- [Interior Car Detailing](https://paneltide.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://paneltide.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://paneltide.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://paneltide.shop/services/headlight-restoration/)
+- [About](https://paneltide.shop/about/)
+- [Contact](https://paneltide.shop/contact/)
+<!-- SEO-NEXT:END -->
